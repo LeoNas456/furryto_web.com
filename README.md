@@ -1,1 +1,1 @@
-# furryto_web.com
+# furryto.com
